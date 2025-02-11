@@ -1,5 +1,4 @@
-# Toga Demo
-# # Toga Demo Projekt
+# # Toga Tutorial Projekt
 
 ## 📌 Aufgabe des Projekts
 Dieses Projekt demonstriert die Verwendung des **Toga**-Frameworks zur Erstellung einer einfachen GUI-Anwendung mit einer Tabelle und mehreren Buttons. Es dient als Einstiegspunkt für Entwickler, die mit Toga plattformübergreifende Anwendungen in **Python** erstellen möchten.
