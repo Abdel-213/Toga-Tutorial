@@ -1,4 +1,4 @@
-# Toga-Tutorial
+# Toga Demo
 # # Toga Demo Projekt
 
 ## 📌 Aufgabe des Projekts
